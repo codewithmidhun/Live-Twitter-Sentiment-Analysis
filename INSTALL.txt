@@ -1,0 +1,21 @@
+
+
+Libraries:
+
+tweepy
+pandas
+re
+nltk
+Textblob
+numpy
+wordcloud
+matplotlib
+
+pckages used:
+
+vader_lexicon
+punkt
+stopwords
+wordnet
+omw-1.4
+averaged_perceptron_tagger
